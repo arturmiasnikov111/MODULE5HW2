@@ -1,0 +1,12 @@
+a[href^="https:"] 
+    {
+        color : red
+    }
+.list > li:last-of-type a
+    {
+        background-color: green
+    }
+ul+p
+    {
+        font-size: 26px;
+    }
